@@ -1,0 +1,24 @@
+{
+  "name": "looker-api-swagger-js-client",
+  "version": "0.0.1",
+  "description": "Consumes the Looker API with swagger-client",
+  "main": "proxy.js",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "swagger-client": "^3.9.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node proxy.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drewgillson/looker-api-swagger-js-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drewgillson/looker-api-swagger-js-client/issues"
+  },
+  "homepage": "https://github.com/drewgillson/looker-api-swagger-js-client#readme"
+}
