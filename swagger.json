@@ -15121,6 +15121,11 @@
             }
           }
         },
+        "security": [
+          {
+            "Bearer": []
+          }
+        ],
         "x-looker-status": "stable",
         "x-looker-activity-type": "non_query"
       },
