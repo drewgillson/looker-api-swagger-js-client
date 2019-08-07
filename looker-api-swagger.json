@@ -12,7 +12,7 @@
     },
     "license": {
       "name": "EULA",
-      "url": "https://cluster-a0c230e8.eastus.cloudapp.azure.com/eula"
+      "url": "http://cluster-a0c230e8.eastus.cloudapp.azure.com/eula"
     }
   },
   "basePath": "/api/3.1",
@@ -24,7 +24,7 @@
   ],
   "host": "cluster-a0c230e8.eastus.cloudapp.azure.com:19999",
   "schemes": [
-    "https"
+    "http"
   ],
   "tags": [
     {
