@@ -5,6 +5,7 @@
   "main": "proxy.js",
   "dependencies": {
     "dotenv": "^8.0.0",
+    "faunadb": "^2.7.0",
     "swagger-client": "^3.9.2"
   },
   "devDependencies": {},
